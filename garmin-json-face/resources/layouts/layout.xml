@@ -1,0 +1,31 @@
+<layout id="WatchFace">
+    <label 
+    id="CommandLabel" 
+        x="129"                   y="13"            font="Graphics.FONT_LARGE" 
+        justification="Graphics.TEXT_JUSTIFY_LEFT" 
+        color="Graphics.COLOR_BLUE" />
+
+    <label 
+    id="FirstBracket" 
+        x="25"                   y="10"            font="Graphics.FONT_MEDIUM" 
+        justification="Graphics.TEXT_JUSTIFY_LEFT" 
+        color="Graphics.COLOR_BLUE" />
+
+    <text-area 
+        id="TimeLabel" 
+        font="Gfx.FONT_TINY"
+        x="5"                   
+        y="39"                   
+        width="100%"               
+        height="100%"
+        justification="Graphics.TEXT_JUSTIFY_LEFT" 
+        color="Graphics.COLOR_BLUE" />
+
+
+    <label 
+    id="SecondBracket" 
+        x="25"                   y="144"            font="Graphics.FONT_XTINY" 
+        justification="Graphics.TEXT_JUSTIFY_LEFT" 
+        color="Graphics.COLOR_BLUE" />
+
+</layout>
