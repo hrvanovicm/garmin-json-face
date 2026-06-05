@@ -5,7 +5,7 @@
         Use "Monkey C: Edit Application" from the Visual Studio Code command palette
         to update the application attributes.
     -->
-    <iq:application id="f5c91b5b-dfbd-46db-9e8d-6044e43b91f0" type="watchface" name="@Strings.AppName" entry="garmin_json_faceApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.4.0">
+    <iq:application id="" type="watchface" name="@Strings.AppName" entry="garmin_json_faceApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.4.0">
         <!--
             Use the following from the Visual Studio Code comand palette to edit
             the build targets:
