@@ -2,8 +2,7 @@
 
 **Status:** ⚠️ For fun / Unmaintained / Expect bugs
 
-![Example 1](examples/1.jpg)
-![Example 2](examples/2.jpg)
+<img src="examples/1.jpg" width="250" /> <img src="examples/2.jpg" width="250" />
 
 ## 💡 The Idea
 The original goal was to build a nerdy, developer-centric watch face that renders time, weather, and other device metrics as a raw JSON object right on the wrist. 
